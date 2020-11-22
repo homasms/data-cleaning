@@ -1,0 +1,10 @@
+x_train = training set
+y_train = training label
+x_test = testing set
+y_test = testing label
+subject_train = id of person who perform the activity
+subject_test = id of person who perform the activity
+activity_label = read data from activity_label.txt
+x = result of merging train and test sets
+mean_std = use just mean and std features
+summarised = final result that is saved to a text file
